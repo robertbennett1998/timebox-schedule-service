@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\timebox-schedule-service.Domain\timebox-schedule-service.Domain.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>timebox_schedule_service.Application.Interfaces</RootNamespace>
+    <LangVersion>9.0</LangVersion>
+  </PropertyGroup>
+
+</Project>
